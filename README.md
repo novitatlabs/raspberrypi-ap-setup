@@ -31,4 +31,4 @@ This will revert all the changes made for Access-point setup
 - The install and uninstall procedure , goes hands to hands.Only if you run the setup procedure for access point completely, the `--uninstall` procedure can revert the changes it had made.If you stop the setup process in between and if you call `--uninstall` ,the script can still remove the changes and configuration made so far, but it can also remove configuration files of hostapd,wlan0,dnsmasq if you have any existing files already.
 - Use static ip address of format `XXX.XXX.XX.X`  when promted to enter ip address during Access point setup procedure,  `Example : 192.168.20.4`.
 ## Contribution
-[![Awesome](https://media-exp1.licdn.com/dms/image/C4E0BAQFinUWCTBXJYQ/company-logo_200_200/0?e=1600300800&v=beta&t=cb42HSKOF6s1EjBKpewXCzEtDS40WeEHKCyhGogs6Yo)](https://github.com/novitatlabs)
+[![Awesome](https://media-exp1.licdn.com/dms/image/C4E0BAQFinUWCTBXJYQ/company-logo_200_200/0?e=1600300800&v=beta&t=cb42HSKOF6s1EjBKpewXCzEtDS40WeEHKCyhGogs6Yo)](http://www.novitatlabs.com/)
